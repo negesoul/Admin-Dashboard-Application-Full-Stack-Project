@@ -2,4 +2,4 @@
 Admin Dashboard MERN Project
 
 # Summary of the project:
-Created and Launched an Admin Dashboard with a MERN Stack. The front-end utilizes Material UI, Material UI Data Grid, Nivo Charts, Redux Toolkit, and Redux Toolkit Query. Meanwhile, the back-end leverages Node.js, Express.js, Mongoose, and MongoDB. Additionally, I utilized Data Modeling using Entity Relationship Diagrams and executing aggregate calls within MongoDB.
+The Admin Dashboard application, a comprehensive MERN stack project, successfully developed and deployed various functional pages (Daily, Monthly, Breakdown, Admin, Performance, and Dashboard) utilizing React, Material-UI, Redux Toolkit, and Nivo for robust visualization of data sets, showcasing effective data management, chart implementation, and database organization, ultimately culminating in a live, interactive dashboard deployed on Render.com, reflecting best practices for data modeling, UI/UX design, and state management across multiple pages.
